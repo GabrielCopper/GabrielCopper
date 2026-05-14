@@ -6,11 +6,11 @@
 
 **Full Stack AI Engineer | Python · Node.js · React · Java · LLMs · AI Agents · SaaS**
 
-I build SaaS and AI products that scale. I started my career with Java development before expanding into full stack engineering and AI systems. With 7 years of experience across Fortune 100 enterprise teams and fast-moving startups, I turn complex ideas into fast, polished MVPs and production-ready software.
+I build SaaS and AI products that scale. I started my career with Java development before expanding into full stack engineering and AI systems. With 7 years of experience across **Fortune 100 enterprise teams** and **fast-moving startup**s, I turn complex ideas into fast, polished MVPs and production-ready software.
 
-I’ve worked with global enterprise clients, collaborating across distributed teams and diverse tech stacks with no language or communication barriers as a U.S.-born engineer.
+I’ve worked with global enterprise clients, collaborating across distributed teams and diverse tech stacks with no language or communication barriers as a **U.S.-born engineer**.
 
-I live and breathe SaaS engineering.
+I live and breathe **SaaS engineering**.
 
 ## Top Stack
 
